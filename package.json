@@ -1,0 +1,15 @@
+{
+  "name": "curso-webpack01",
+  "version": "1.0.0",
+  "description": "\"curso para aprender a manejar webpack y plugins\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "webpack"
+  ],
+  "author": "Daniel Avila",
+  "license": "MIT"
+}
